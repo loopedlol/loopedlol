@@ -1,30 +1,30 @@
-# Hi, I'm Colin
+<div align="center">
 
-I build projects at the intersection of **AI, robotics, computer vision, and engineering**. I especially enjoy taking an idea beyond a single model or script and working through the surrounding system: perception, data pipelines, interfaces, evaluation, planning, and real-world constraints.
+# Hey, I'm Colin 👋
 
-## Featured projects
+### High school student exploring AI, robotics, and computer vision
 
-| Project | What I'm building |
-| --- | --- |
-| [**CarVisionAI**](https://github.com/loopedlol/CarVisionAI) | A perception and navigation stack for a small autonomous vehicle, including stereo vision, occupancy mapping, path planning, trajectory generation, control, and pose estimation. |
-| [**MetaSafetyWebApp**](https://github.com/loopedlol/MetaSafetyWebApp) | A full-stack workplace-safety prototype exploring how smart glasses and a traditional web dashboard can share a practical safety workflow. |
-| [**RAGDocumentQA**](https://github.com/loopedlol/RAGDocumentQA) | A retrieval-augmented generation experiment over long Korean documents, with inspectable retrieval and answer evaluation. |
-| [**SignLanguageAI**](https://github.com/loopedlol/SignLanguageAI) | A MediaPipe + PyTorch pipeline for recording, training, evaluating, and running live isolated Korean Sign Language recognition. |
+**Python** · **PyTorch** · **OpenCV** · **TypeScript** · **Raspberry Pi**
 
-## What I work with
+</div>
 
-**Languages:** Python · TypeScript  
-**AI / Vision:** PyTorch · OpenCV · MediaPipe · RAG  
-**Web / Data:** Vite · Express · SQLite  
-**Engineering:** Robotics · perception · path planning · system prototyping
+## A little about me
 
-## Current interests
+I'm a high school student who likes figuring out **why things work**, then trying to build something with what I learned. Lately, most of that curiosity has ended up in AI, computer vision, robotics, and embedded systems.
 
-- Autonomous perception and navigation
-- Computer vision and multimodal AI
-- Embedded and physical AI systems
-- Building complete systems around machine-learning models
+## Things I'm building
 
----
+- 🚗 **[CarVisionAI](https://github.com/loopedlol/CarVisionAI)** — autonomy experiments for a small robot car
+- 🥽 **[MetaSafetyWebApp](https://github.com/loopedlol/MetaSafetyWebApp)** — experimenting with smart glasses for workplace-safety workflows
+- 📚 **[RAGDocumentQA](https://github.com/loopedlol/RAGDocumentQA)** — learning how retrieval-augmented generation behaves on long documents
+- 🤟 **[SignLanguageAI](https://github.com/loopedlol/SignLanguageAI)** — exploring webcam-based Korean Sign Language recognition
 
-Most of my repositories are experiments or prototypes built to understand a technical problem deeply. I try to document not only what worked, but also the assumptions, limitations, and next steps.
+## Right now I'm curious about
+
+**computer vision** · **robotics** · **multimodal AI** · **embedded systems** · **how learning systems adapt**
+
+<div align="center">
+
+<sub>Mostly learning by experimenting, testing ideas, and writing down what I find.</sub>
+
+</div>
