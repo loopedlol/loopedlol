@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="108" viewBox="0 0 840 108" role="img" aria-label="SignLanguageAI — movement + vision"><title>SignLanguageAI — movement + vision</title>
+ <rect x="1" y="1" width="838" height="106" rx="15" fill="#ffffff" stroke="#d9e2ec"/>
+ <rect x="1" y="20" width="4" height="68" rx="2" fill="#c1a4ff"/>
+ <text x="27" y="65" font-family="monospace" font-size="28" fill="#5d7088">03</text>
+ <text x="83" y="64" font-family="Arial,sans-serif" font-size="35" font-weight="700" letter-spacing="-.7" fill="#172332">SignLanguageAI</text>
+ <rect x="457" y="36" width="302" height="35" rx="17.5" fill="#c1a4ff" opacity=".23"/>
+ <text x="608" y="59" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1.3" text-anchor="middle" fill="#435778">MOVEMENT + VISION</text>
+ <path d="M786 54h20m-8-8 8 8-8 8" fill="none" stroke="#c1a4ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+ </svg>
